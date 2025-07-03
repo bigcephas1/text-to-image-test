@@ -1,0 +1,5 @@
+terraform.tfvars
+.env
+encoded.txt
+key.json
+
